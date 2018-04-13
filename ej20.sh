@@ -134,6 +134,6 @@ do
 			echo "Pulse tecla para continuar...";
 			read;;
 		5) clear;exit;;
-		*) echo Opción erronea; echo "Pulse tecla para continuar...";read;;
+		*) echo Opción erroneaa; echo "Pulse tecla para continuar...";read;;
 	esac	   	
 done
