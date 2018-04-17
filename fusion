@@ -1,7 +1,7 @@
-clientes;1;76444555A;Pepe1;Direccion 1;Telefono 1;100;Merida;Badajoz
-clientes;2;76444555B;Pepe2;Direccion 2;Telefono 2;200;Merida;Badajoz
+clientes;1;76444555A;Pepe1;Direccion 1;Telefono 1;15;Merida;Badajoz
+clientes;2;76444555B;Pepe2;Direccion 2;Telefono 2;18;Merida;Badajoz
 clientes;4;76444555D;Pepe4;Direccion 4;Telefono 4;400;Badajoz;Badajoz
-clientes;5;76444555E;Pepe5;Direccion 5;Telefono 5;500;Badajoz;Badajoz
+clientes;7;76444555E;Pepe5;Direccion 5;Telefono 5;500;Badajoz;Badajoz
 clientes1;6;76444555A;Pepe1;Direccion 1;Telefono 1;100;Merida;Badajoz
 clientes1;2;76444555B;Pepe2;Direccion 2;Telefono 2;200;Merida;Badajoz
 clientes1;4;76444555D;Pepe4;Direccion 4;Telefono 4;400;Badajoz;Badajoz
