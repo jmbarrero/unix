@@ -1,0 +1,12 @@
+El ID_CLIENTE 2 esta repetido en las siguientes lineas 
+
+clientes1;2;76444555B;Pepe2;Direccion 2;Telefono 2;200;Merida;Badajoz 
+
+clientes;2;76444555B;Pepe2;Direccion 2;Telefono 2;200;Merida;Badajoz 
+
+El ID_CLIENTE 4 esta repetido en las siguientes lineas 
+
+clientes1;4;76444555D;Pepe4;Direccion 4;Telefono 4;400;Badajoz;Badajoz 
+
+clientes;4;76444555D;Pepe4;Direccion 4;Telefono 4;400;Badajoz;Badajoz 
+
